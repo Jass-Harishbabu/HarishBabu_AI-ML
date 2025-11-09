@@ -8,9 +8,8 @@ This repository reflects not just what I have built — but **how I think, learn
 
 Each artifact demonstrates mastery in areas such as **machine learning**, **conversational AI**, and **data visualization**, combining **technical depth** with **strategic design** and **reflective insight**.
 
-📫 [Email](mailto:marella.harishbabu@gmail.com) | [LinkedIn](https://linkedin.com/in/harish-babu-marella-1b38a9151)
 
----
+
 
 ## 🌍 Professional Bio
 
@@ -233,10 +232,10 @@ Thank you for exploring my portfolio.
 I am committed to **building AI systems that are ethical, explainable, and impactful** — blending scientific depth with social purpose.  
 I aspire to continue contributing to AI’s role in education, automation, and real-world problem-solving through innovation and empathy.
 
-📧 [marella.harishbabu@gmail.com](mailto:marella.harishbabu@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/harish-babu-marella-1b38a9151)
+## Contact Me
+📧 [marella.harishbabu@gmail.com](mailto:jassharishbabu3@gmail.com)  
+🔗 [LinkedIn](http://linkedin.com/in/harish-babu-marella-1b38a9151)
 
----
 
 > *“AI isn’t just about creating intelligent machines — it’s about designing intelligent futures.”*  
 > — **Harish Babu Marella**
