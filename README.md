@@ -42,8 +42,9 @@ Through every project, I blend **research rigor**, **technical fluency**, and **
 
 # 🧠 Artifact 1: AI Timeline (1950–2025)
 
-![AI Timeline Preview](<img width="1520" height="668" alt="image" src="https://github.com/user-attachments/assets/0e33c102-5079-4d59-bfac-641c65be1aab" />
-)  
+![AI Timeline Preview]
+<img width="1520" height="668" alt="image" src="https://github.com/user-attachments/assets/0e33c102-5079-4d59-bfac-641c65be1aab" />
+ 
 <img width="977" height="733" alt="image" src="https://github.com/user-attachments/assets/cc59875d-3d2a-4ef0-b587-39d52d4af576" />
 
 *A comprehensive visual representation of AI’s evolution across seven decades.*
