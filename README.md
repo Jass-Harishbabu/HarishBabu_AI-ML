@@ -92,7 +92,7 @@ Through every project, I blend **research rigor**, **technical fluency**, and **
 - Turing, A. (1950). *Computing Machinery and Intelligence.*  
 - Russell, S., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach.*  
 
-[📄 Download AI Timeline Presentation](link-to-file)
+[📄 Download AI Timeline Presentation][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/c21b1b8cb8ffc8d9a492baea5bb9ae61ef4c7df0/AI_Lab_School_Management_Chatbot_Documentation%20(1)%20(1).docx)
 
 ---
 
