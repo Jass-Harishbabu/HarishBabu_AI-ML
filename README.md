@@ -98,7 +98,13 @@ Through every project, I blend **research rigor**, **technical fluency**, and **
 
 # 🤖 Artifact 2: AI Lab – Android-Based School Management Chatbot
 
-![Chatbot Interface](link-to-image)  
+![Chatbot Interface] 
+<img width="1415" height="686" alt="image" src="https://github.com/user-attachments/assets/101ee402-563d-4b12-93a9-51af0d403e44" />
+<img width="1782" height="856" alt="image" src="https://github.com/user-attachments/assets/cc906964-e0da-4a0e-a810-0c425118e730" />
+<img width="1857" height="888" alt="image" src="https://github.com/user-attachments/assets/60613f83-3ead-423f-83d6-edf98ab4d767" />
+
+
+
 *An interactive AI assistant that explains educational architecture through Q&A.*
 
 ---
