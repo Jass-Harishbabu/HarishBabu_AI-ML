@@ -1,5 +1,7 @@
 # 👋 Hi, I'm **Harish Babu Marella**  
 🎯 *AI Engineer | Software Developer | Research Innovator | Lifelong Learner*  
+<img width="1022" height="601" alt="image" src="https://github.com/user-attachments/assets/d861d862-6243-4d19-ae20-5f5687df01f8" />
+
 
 Welcome to my **Professional AI Portfolio**, a curated showcase of applied projects, research analyses, and intelligent systems design.  
 This repository reflects not just what I have built — but **how I think, learn, and evolve** as an AI professional.  
@@ -157,7 +159,13 @@ Through every project, I blend **research rigor**, **technical fluency**, and **
 
 # ⚖️ Artifact 3: Machine Learning vs. Deep Learning — Comparative Case Study
 
-![ML vs DL Visualization](link-to-image)  
+![ML vs DL Visualization]
+<img width="1073" height="592" alt="image" src="https://github.com/user-attachments/assets/6215f10f-9284-411e-b054-05c4d0e96be0" />
+<img width="972" height="596" alt="image" src="https://github.com/user-attachments/assets/d548c41a-58fb-4e2d-931c-836d651c7d04" />
+<img width="1045" height="596" alt="image" src="https://github.com/user-attachments/assets/38823a31-188d-4122-bf69-23b5fdd20711" />
+
+
+  
 *A structured analytical comparison between ML and DL paradigms.*
 
 ---
