@@ -204,7 +204,7 @@ Through every project, I blend **research rigor**, **technical fluency**, and **
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning.* MIT Press.  
 - Ng, A. (2017). *Machine Learning Yearning.*  
 
-[📄 Download ML vs DL Case Study](link-to-file)
+[📄 Download ML vs DL Case Study][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/f17f16feddc13467b9ec7944ed061000dfeb820e/Machine%20Learning%20vs%20Deep%20Learning.docx)
 
 ---
 
