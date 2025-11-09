@@ -233,7 +233,7 @@ I am committed to **building AI systems that are ethical, explainable, and impac
 I aspire to continue contributing to AI’s role in education, automation, and real-world problem-solving through innovation and empathy.
 
 ## Contact Me
-📧 (mailto:jassharishbabu3@gmail.com)  
+📧 (mailto):(jassharishbabu3@gmail.com)  
 🔗 [LinkedIn](http://linkedin.com/in/harish-babu-marella-1b38a9151)
 
 
