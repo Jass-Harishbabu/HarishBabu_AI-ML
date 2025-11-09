@@ -5,7 +5,7 @@
 
 Welcome to my **Professional AI Portfolio**, a curated showcase of applied projects, research analyses, and intelligent systems design.  
 This repository reflects not just what I have built — but **how I think, learn, and evolve** as an AI professional. 
-🧠 [AI Timeline (1950–2025)](link-to-file)  
+🧠 [AI Timeline (1950–2025)][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/57e4b8dec52ce7bb68cf6c6d4b30aefea64aff81/Group-4_AI_Timeline_1950_2025%20(1).pptx)  
 🤖 [AI Lab School Management Chatbot](link-to-file)  
 
 📫 [Email Me](mailto:marella.harishbabu@gmail.com) | [LinkedIn](https://linkedin.com/in/harish-babu-marella-1b38a9151)
