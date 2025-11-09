@@ -150,8 +150,8 @@ Through every project, I blend **research rigor**, **technical fluency**, and **
 ### **References (if applicable)**  
 - *Android-Based School Management System*, SSRN Research Paper.  
 
-[📄 View Chatbot Documentation](link-to-file)  
-[💬 Try the Chatbot Live](https://www.chatbase.co/bjk5D2Cd7_DaP93zyrNsA/help)
+[📄 View Chatbot Documentation][(link-to-file)  ](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/213d7a0d5b032db1a90f3f3d9e57f28387788fa2/AI_Lab_School_Management_Chatbot_Documentation%20(1)%20(1).docx)
+[💬 Try the Chatbot Live][(https://www.chatbase.co/bjk5D2Cd7_DaP93zyrNsA/help)](https://www.chatbase.co/bjk5D2Cd7_DaP93zyrNsA/help)
 
 ---
 
