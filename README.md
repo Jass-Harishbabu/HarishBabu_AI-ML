@@ -7,7 +7,7 @@ Welcome to my **Professional AI Portfolio**, a curated showcase of applied proje
 This repository reflects not just what I have built — but **how I think, learn, and evolve** as an AI professional. 
 ### 🧠 [AI Timeline (1950–2025)][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/57e4b8dec52ce7bb68cf6c6d4b30aefea64aff81/Group-4_AI_Timeline_1950_2025%20(1).pptx)  
 ### 🤖 [AI Lab School Management Chatbot][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/3b4959af5b16270c3c5909ba0c6a6ce39efd83bd/AI_Lab_School_Management_Chatbot_Documentation%20(1)%20(1).docx)
-### [ML VS DL Case Study][(link-to-file)] https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/f17f16feddc13467b9ec7944ed061000dfeb820e/Machine%20Learning%20vs%20Deep%20Learning.docx
+### [ML VS DL Case Study][(link-to-file)] (https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/f17f16feddc13467b9ec7944ed061000dfeb820e/Machine%20Learning%20vs%20Deep%20Learning.docx)
 📫 [Email Me](mailto:jassharishbabu3@gmail.com) | [LinkedIn](http://linkedin.com/in/harish-babu-marella-1b38a9151)
 
 Each artifact demonstrates mastery in areas such as **machine learning**, **conversational AI**, and **data visualization**, combining **technical depth** with **strategic design** and **reflective insight**.
