@@ -230,7 +230,7 @@ Through every project, I blend **research rigor**, **technical fluency**, and **
 
 ## **Introduction**
 
-This document provides clear, professional explanations of fundamental machine learning concepts, including supervised, unsupervised, and reinforcement learning, as well as the role of algorithms and data in model training. It is designed to help students, developers, and AI enthusiasts understand the core principles of machine learning.
+*This document provides clear, professional explanations of fundamental machine learning concepts, including supervised, unsupervised, and reinforcement learning, as well as the role of algorithms and data in model training. It is designed to help students, developers, and AI enthusiasts understand the core principles of machine learning.
 
 ## **Description**
 
@@ -256,6 +256,7 @@ The explanations are concise, technically accurate, and suitable for educational
 
 ## **Tools and Technologies Used**
 
+* SchoolAI
 * Conceptual knowledge of machine learning
 * Standard machine learning paradigms: Supervised, Unsupervised, Reinforcement Learning
 * Structured documentation formatting
