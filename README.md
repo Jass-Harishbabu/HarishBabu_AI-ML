@@ -221,7 +221,7 @@ Through every project, I blend **research rigor**, **technical fluency**, and **
 
 ---
 
-# 🧠 Artifact 4**Machine Learning Q&A – Conceptual Guide**
+# 🧠 Artifact 4:**Questions about Training Methods**
 
 ## **Introduction**
 
