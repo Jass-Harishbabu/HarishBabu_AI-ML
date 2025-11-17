@@ -227,6 +227,8 @@ Through every project, I blend **research rigor**, **technical fluency**, and **
 ---
 
 # 🧠 Artifact 4:**Questions about Training Methods**
+<img width="1067" height="597" alt="image" src="https://github.com/user-attachments/assets/5f53cbb9-0e48-495a-bf6d-7a95640b5e11" />
+
 <img width="1447" height="717" alt="image" src="https://github.com/user-attachments/assets/572886b6-2826-4139-999f-f56bf73aa022" />
 
 
