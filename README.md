@@ -9,8 +9,8 @@ This repository reflects not just what I have built — but **how I think, learn
 ### 🧠 [AI Timeline (1950–2025)][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/57e4b8dec52ce7bb68cf6c6d4b30aefea64aff81/Group-4_AI_Timeline_1950_2025%20(1).pptx)  
 ### 🤖 [AI Lab School Management Chatbot][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/3b4959af5b16270c3c5909ba0c6a6ce39efd83bd/AI_Lab_School_Management_Chatbot_Documentation%20(1)%20(1).docx)
 ### 📚 [ML VS DL Case Study][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/f17f16feddc13467b9ec7944ed061000dfeb820e/Machine%20Learning%20vs%20Deep%20Learning.docx)
-📫 [Email Me](mailto:jassharishbabu3@gmail.com) | [LinkedIn](http://linkedin.com/in/harish-babu-marella-1b38a9151)
 ### 🧠 Artifact 4:[Questions about Training Methods]
+📫 [Email Me](mailto:jassharishbabu3@gmail.com) | [LinkedIn](http://linkedin.com/in/harish-babu-marella-1b38a9151)
 
 
 
@@ -339,7 +339,8 @@ Examples provide the **experience** from which the model learns. They guide the 
 - Developed a deeper understanding of AI’s **historical, analytical, and applied dimensions**.  
 - The **Timeline Project** enhanced my ability to visualize and communicate complexity.  
 - The **Chatbot Project** honed my technical and design integration skills in conversational AI.  
-- The **ML vs DL Study** strengthened my critical thinking, comparative reasoning, and articulation of AI principles.  
+- The **ML vs DL Study** strengthened my critical thinking, comparative reasoning, and articulation of AI principles.
+- The **Questions about Training Methods** Enhanced my understanding of machine learning by developing the SchoolAI ML Q&A Guide.
 
 Collectively, these projects demonstrate **my evolution from student to practitioner**, grounded in research integrity, applied innovation, and human-centered AI design.
 
