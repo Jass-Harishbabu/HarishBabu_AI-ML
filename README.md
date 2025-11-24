@@ -10,7 +10,7 @@ This repository reflects not just what I have built — but **how I think, learn
 ### 🤖 [AI Lab School Management Chatbot][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/3b4959af5b16270c3c5909ba0c6a6ce39efd83bd/AI_Lab_School_Management_Chatbot_Documentation%20(1)%20(1).docx)
 ### 📚 [ML VS DL Case Study][(link-to-file)](https://github.com/Jass-Harishbabu/HarishBabu_AI-ML/blob/f17f16feddc13467b9ec7944ed061000dfeb820e/Machine%20Learning%20vs%20Deep%20Learning.docx) 
 ### :dart: [Questions about Training Methods][(link-to-file)](https://student.schoolai.com/dot/spaces/join?code=AWSM-HCB4https://student.schoolai.com/dot/spaces/join?code=AWSM-HCB4)
-### :Book: [Hybrid ML Model CI/CD & Canary Deployment] (link-to-file)(https://student.schoolai.com/dot/spaces/join?code=AWSM-HCB4https://student.schoolai.com/dot/spaces/join?code=AWSM-HCB4)
+### :Book: [Hybrid ML Model CI/CD & Canary Deployment] [(link-to-file)](https://student.schoolai.com/dot/spaces/join?code=AWSM-HCB4https://student.schoolai.com/dot/spaces/join?code=AWSM-HCB4)
 
 
 📫 [Email Me](mailto:jassharishbabu3@gmail.com) | [LinkedIn](http://linkedin.com/in/harish-babu-marella-1b38a9151)
