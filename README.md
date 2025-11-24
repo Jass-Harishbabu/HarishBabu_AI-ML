@@ -355,7 +355,17 @@ Creating this Q&A guide deepened my understanding of the foundational principles
 
 ---
 
-# Artifact 5:**Hybrid ML Model CI/CD & Canary Deployment**    
+#  🏖️ Artifact 5:**Hybrid ML Model CI/CD & Canary Deployment**  
+<img width="982" height="697" alt="image" src="https://github.com/user-attachments/assets/d0eff724-13fa-458a-9861-bfa46a4217dd" />
+<img width="978" height="722" alt="image" src="https://github.com/user-attachments/assets/f31e9d6c-9e56-417d-aa18-5927a82efcf9" />
+<img width="985" height="717" alt="image" src="https://github.com/user-attachments/assets/cc1226bd-75c6-472d-90ee-cc897e232fcd" />
+<img width="982" height="712" alt="image" src="https://github.com/user-attachments/assets/3bfe45cd-4d43-4e74-aca2-21b64e8623bb" />
+<img width="981" height="677" alt="image" src="https://github.com/user-attachments/assets/c862a5e7-62bd-428f-a535-9f14af69ab9a" />
+
+
+
+
+
 
 ## Introduction
 
