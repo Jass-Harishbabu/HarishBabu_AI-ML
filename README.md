@@ -427,7 +427,7 @@ The workflow covers the complete ML lifecycle:
 
 Working on this project allowed me to deeply understand the end-to-end lifecycle of machine learning models in production, from training and validation to deployment using CI/CD pipelines. I gained practical experience in automating workflows with Python and YAML, managing secrets, implementing canary deployments on Kubernetes with Argo Rollouts, and monitoring performance and drift using Prometheus and Pushgateway. The process reinforced the importance of observability, rollback mechanisms, and careful staging before production, while also highlighting the integration of cloud services like AWS S3, ECR, and MLflow. Overall, this project strengthened my skills in MLOps, cloud-native deployments, and building reliable, scalable, and maintainable ML systems.
 
-🧠 Artifact 6: Personal AI/ML Leadership Framework & Industry Insight Newsletter
+# 🧠 Artifact 6: Personal AI/ML Leadership Framework & Industry Insight Newsletter
 
 
 
